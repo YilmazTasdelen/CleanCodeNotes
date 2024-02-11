@@ -39,8 +39,3 @@
   - [NoiseComment](/Comments/NoiseComment.md)
   - [NamingInsteadComment](/Comments/NamingInsteadComment.md)
   - [Informing](/Comments/Informing.md)
-  - [Small](/Comments/Small.md)
-  - [Small](/Comments/Small.md)
-  - [Small](/Comments/Small.md)
-  - [Small](/Comments/Small.md)
- 
