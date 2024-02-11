@@ -21,4 +21,15 @@
   - [Small](/Functions/Small.md)
   - [Do One Thing](/Functions/DoOneThing.md)
   - [One Level Abstraction](/Functions/OneLevelAbstraction.md)
+  - [Switch Statements](/Functions/SwitchStatements.md)
+  - [SideEffects](/Functions/SideEffects.md)
+  - [Arguments](/Functions/Arguments.md)
+  - [Output Arguments](/Functions/OutputArgument.md)
+
+  - [Command Query Seperation](/Functions/CommandQuerySeperation.md)
+  - [Exceptions](/Functions/Exceptions.md)
+  - [SideEffects](/Functions/SideEffects.md)
+  - [SideEffects](/Functions/SideEffects.md)
+  - [SideEffects](/Functions/SideEffects.md)
+  - [SideEffects](/Functions/SideEffects.md)
  
