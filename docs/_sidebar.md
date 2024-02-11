@@ -25,11 +25,22 @@
   - [SideEffects](/Functions/SideEffects.md)
   - [Arguments](/Functions/Arguments.md)
   - [Output Arguments](/Functions/OutputArgument.md)
-
   - [Command Query Seperation](/Functions/CommandQuerySeperation.md)
   - [TryCatch](/Functions/TryCatch.md)
   - [Error Enums or Classes](/Functions/ErrorEnumsClasses.md)
   - [Dont Repeat Yourself](/Functions/DontRepeat.md)
   - [StructuredProgramming](/Functions/StructuredProgramming.md)
-  - [SideEffects](/Functions/SideEffects.md)
+
+- Comments
+
+  - [Explain](/Comments/Explain.md)
+  - [Small](/Comments/Small.md)
+  - [Small](/Comments/Small.md)
+  - [Small](/Comments/Small.md)
+  - [Small](/Comments/Small.md)
+  - [Small](/Comments/Small.md)
+  - [Small](/Comments/Small.md)
+  - [Small](/Comments/Small.md)
+  - [Small](/Comments/Small.md)
+  - [Small](/Comments/Small.md)
  
