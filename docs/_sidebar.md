@@ -34,11 +34,11 @@
 - Comments
 
   - [Explain](/Comments/Explain.md)
-  - [Small](/Comments/Small.md)
-  - [Small](/Comments/Small.md)
-  - [Small](/Comments/Small.md)
-  - [Small](/Comments/Small.md)
-  - [Small](/Comments/Small.md)
+  - [Warninf Of Consequences](/Comments/WarninfOfConsequences.md)
+  - [Bad Comments](/Comments/BadComment.md)
+  - [NoiseComment](/Comments/NoiseComment.md)
+  - [NamingInsteadComment](/Comments/NamingInsteadComment.md)
+  - [Informing](/Comments/Informing.md)
   - [Small](/Comments/Small.md)
   - [Small](/Comments/Small.md)
   - [Small](/Comments/Small.md)

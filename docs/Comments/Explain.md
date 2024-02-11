@@ -38,3 +38,9 @@ Here’s a case that’s a bit better:
         // format matched kk:mm:ss EEE, MMM dd, yyyy
         Pattern timeMatcher = Pattern.compile(
         "\\d*:\\d*:\\d* \\w*, \\w* \\d*, \\d*");
+
+# Clarification
+
+* There is a substantial risk, of course, that a clarifying comment is incorrect
+        assertTrue(a.compareTo(a) == 0); // a == a
+        assertTrue(a.compareTo(b) != 0); // a != b
