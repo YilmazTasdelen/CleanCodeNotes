@@ -54,3 +54,13 @@
   - [Hiding Structure](/ObjectsAndDataStructures/HidinStructure.md)
   - [Data Transfer Objects](/ObjectsAndDataStructures/DataTransferObjects.md)
   - [ActiveRecords](/ObjectsAndDataStructures/ActiveRecords.md)
+
+
+- Error Handling
+
+- [Exceptions Rather Than Error Codes](/ErrorHandling/ExceptionsRatherThanErrorCodes.md)
+- [TryCatchFinally](/ErrorHandling/TryCatchFinally.md)
+- [Unchecked Exceptions](/ErrorHandling/UncheckedExceptions.md)
+- [Provide Context With Exception](/ErrorHandling/ContextWithException.md)
+- [Vertical](/ErrorHandling/Vertical.md)
+- [Vertical](/ErrorHandling/Vertical.md)
