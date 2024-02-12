@@ -39,3 +39,16 @@
   - [NoiseComment](/Comments/NoiseComment.md)
   - [NamingInsteadComment](/Comments/NamingInsteadComment.md)
   - [Informing](/Comments/Informing.md)
+
+- Formatting
+
+  - [Vertical](/Formatting/Vertical.md)
+  - [Horizonal](/Formatting/Horizonal.md)
+  - [Small](/Formatting/Small.md)
+  - [Small](/Formatting/Small.md)
+  - [Small](/Formatting/Small.md)
+  - [Small](/Formatting/Small.md)
+  - [Small](/Formatting/Small.md)
+  - [Small](/Formatting/Small.md)
+  - [Small](/Formatting/Small.md)
+  - [Small](/Formatting/Small.md)
