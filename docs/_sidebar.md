@@ -44,11 +44,13 @@
 
   - [Vertical](/Formatting/Vertical.md)
   - [Horizonal](/Formatting/Horizonal.md)
-  - [Small](/Formatting/Small.md)
-  - [Small](/Formatting/Small.md)
-  - [Small](/Formatting/Small.md)
-  - [Small](/Formatting/Small.md)
-  - [Small](/Formatting/Small.md)
-  - [Small](/Formatting/Small.md)
-  - [Small](/Formatting/Small.md)
-  - [Small](/Formatting/Small.md)
+
+- Objects and Data Structure
+
+  - [Data Abstraction](/ObjectsAndDataStructures/DataAbstraction.md)
+  - [DataObjectAntiSymmetry](/ObjectsAndDataStructures/DataObjectAntiSymmetry.md)
+  - [Law Of Demeter](/ObjectsAndDataStructures/LawOfDemeter.md)
+  - [Hybrits](/ObjectsAndDataStructures/Hybrits.md)
+  - [Hiding Structure](/ObjectsAndDataStructures/HidinStructure.md)
+  - [Data Transfer Objects](/ObjectsAndDataStructures/DataTransferObjects.md)
+  - [ActiveRecords](/ObjectsAndDataStructures/ActiveRecords.md)

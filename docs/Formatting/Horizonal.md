@@ -50,6 +50,7 @@ temptation, I have almost always gone back and put the indentation back in. So I
          public CommentWidget(ParentWidget parent, String text){super(parent, text);}
          public String render() throws Exception {return ""; }
         }
+        
 I prefer to expand and indent the scopes instead, like this:
 
         public class CommentWidget extends TextWidget {
