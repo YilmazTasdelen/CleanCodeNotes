@@ -62,5 +62,16 @@
 - [TryCatchFinally](/ErrorHandling/TryCatchFinally.md)
 - [Unchecked Exceptions](/ErrorHandling/UncheckedExceptions.md)
 - [Provide Context With Exception](/ErrorHandling/ContextWithException.md)
-- [Vertical](/ErrorHandling/Vertical.md)
-- [Vertical](/ErrorHandling/Vertical.md)
+- [Returning or Pass Null](/ErrorHandling/ReturnPassNull.md)
+
+
+
+- Classes
+
+  - [Class Organization](/Classes/ClassOrganization.md)
+  - [Single Responsibilty](/Classes/SingleResponsibilty.md)
+  - [ClassOrganization](/Classes/ClassOrganization.md)
+  - [ClassOrganization](/Classes/ClassOrganization.md)
+  - [ClassOrganization](/Classes/ClassOrganization.md)
+  - [ClassOrganization](/Classes/ClassOrganization.md)
+  - [ClassOrganization](/Classes/ClassOrganization.md)
