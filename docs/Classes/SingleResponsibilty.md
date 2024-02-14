@@ -1,4 +1,4 @@
-# Single Responsibilty Prinvible
+# Single Responsibilty Princible
 
 > a class or module should have one, and only one, reason to change. This principle gives us both a definition of responsibility, and a guidelines for class size. Classes should have one responsibility—one reason to change.
 

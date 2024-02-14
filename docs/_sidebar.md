@@ -70,8 +70,5 @@
 
   - [Class Organization](/Classes/ClassOrganization.md)
   - [Single Responsibilty](/Classes/SingleResponsibilty.md)
-  - [ClassOrganization](/Classes/ClassOrganization.md)
-  - [ClassOrganization](/Classes/ClassOrganization.md)
-  - [ClassOrganization](/Classes/ClassOrganization.md)
-  - [ClassOrganization](/Classes/ClassOrganization.md)
-  - [ClassOrganization](/Classes/ClassOrganization.md)
+  - [Cohesion](/Classes/Cohesion.md)
+  - [Isolation](/Classes/Isolation.md)
