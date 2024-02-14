@@ -13,11 +13,13 @@ Feel free to explore the notes, learn from them, and contribute to make this rep
 
 The notes cover a variety of clean code principles, including but not limited to:
 
-- Meaningful Variable Names
-- Functions and Methods
+- Naming 
+- Functions
+- Comments
+- Formatting
+- Objects and Data Structure
 - Error Handling
-- Comments and Documentation
-- ...
+- Classes
 
 ## Contributions
 
